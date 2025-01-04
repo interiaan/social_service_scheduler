@@ -29,6 +29,8 @@ form.addEventListener("submit", (event) => {
 
         if (responseData.message === "Account Verified") {
             alert("Welcome, " + responseData.userName);
+
+            window.location.href = "index.html";
         }
     }).catch(error => {
         console.error("We couldn't finished the request: ", error);
