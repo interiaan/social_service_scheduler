@@ -1,0 +1,1 @@
+Assigns tasks or duties to students performing community service and approves schedules to correctly account for hours and activities performed, ensuring access to information and transparency. Students can indicate the hours they start their community service and the time they leave, along with a description of the activities they performed.
